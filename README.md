@@ -56,6 +56,14 @@ for Bootstrap & Angular 11](https://github.com/mdbootstrap/mdb-angular-ui-kit) -
 for Bootstrap & React 17](https://github.com/mdbootstrap/mdb-react-ui-kit) - 600+ free material UI components & templates. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 - :five: [Material Design
 for Bootstrap & Vue 3](https://github.com/mdbootstrap/mdb-vue-ui-kit) - 500+ free material UI components & templates. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+- :four: [Material Design
+for Bootstrap & jQuery 3](https://github.com/mdbootstrap/material-design-for-bootstrap) - 600+ free material UI components & templates. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+- :four: [Material Design
+for Bootstrap & Angular 10](https://github.com/mdbootstrap/mdb4-angular-ui-kit) - 400+ free material UI components & templates. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+- :four: [Material Design
+for Bootstrap & React 16](https://github.com/mdbootstrap/mdb4-react-ui-kit) - 500+ free material UI components & templates. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+- :four: [Material Design
+for Bootstrap & Vue 2](https://github.com/mdbootstrap/mdb4-vue-ui-kit) - 400+ free material UI components & templates. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 - :four::three::two: [BootSnipp.com](https://bootsnipp.com/) - Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 - :four: [CodexUI](https://codexui.com/) [[1]](#full-disclosure) - Vanilla Bootstrap components that require no extra CSS or Javascript to use. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 - :three: [Flat UI](http://designmodo.github.io/Flat-UI/) - Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites.  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) & [![License: CC BY 3.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/3.0/)
