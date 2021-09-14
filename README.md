@@ -31,9 +31,12 @@ To contibute please see the [contributing.md](contributing.md) document.
 
 ## Components
 
+-  :five: [Card UX/UI](https://card-ux.mdbgo.io/) - Discover 20+ predefined templates or generate your custom card. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+-  :five: [Ultimate Footer](https://footer.mdbgo.io/) - the last but not least. Learn how the bottom of your page should be at the top of your priorities [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+-  :five: [Tables Generator & Templates](https://tables-generator.mdbgo.io/) - Use 10+ templates and present your data in a more accessible way or generate your own table
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 - :three: [bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker) - A datepicker for twitter bootstrap [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 - :two::three: [boostrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended Bootstrap table with radio, checkbox, sort, pagination, and other added features. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-- 
 
 ## Libraries
 
@@ -132,20 +135,34 @@ for Bootstrap & Vue 3](https://github.com/mdbootstrap/mdb-vue-ui-kit) - 500+ fre
 |:five:|[Twitter newsfeed](https://mdbootstrap.com/snippets/standard/mdb-lab/2867455) | ![word](https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/lab/_main/assets/projects/twitter-newsfeed.jpg) |The project includes a home page with three column layout where the two extreme ones are responsible for the navigation, while the middle one i cards you can check recent user activity.|[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)|
 |:five:|[Tripadvisor homepage](https://mdbootstrap.com/snippets/standard/mdb-lab/2867464) | ![Tripadvisor homepage](https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/lab/_main/assets/projects/tripadvisor-homepage.jpg) |The project includes a home page with one column layout with easy to use navigation in shortcuts under the navbar. The page includes also a search form & number of cards with advised the best places to rest.|[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)|
 |:five:|[Wikipedia article page](https://mdbootstrap.com/snippets/standard/mdb-lab/2867452) | ![Wikipedia article page](https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/lab/_main/assets/projects/wikipedia-article-page.jpg) |The project includes a home page with typical, advanced eCommerce navigation (double navbar + sidenav) and multiple media containers for presenting products.|[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)|
+|:five:|[IMDB homepage](https://mdbootstrap.com/snippets/standard/mdb-lab/2847268) | ![IMDB homepage](https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/lab/_main/assets/projects/imdb-homepage.jpg) |The project includes a home page with typical, advanced navigation and multiple media containers for presenting news and movies.|[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)|
+|:five:|[Airbnb](https://mdbootstrap.com/snippets/standard/mdb-lab/2847266) | ![Airbnb](https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/lab/_main/assets/projects/airbnb.jpg) |The project includes two-column layout with advanced navigation of multiple media containers for presenting places to stay in area you can choose on interactive map.|[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)|
+|:five:|[Facebook messenger](https://mdbootstrap.com/snippets/standard/mdb-lab/2847260) | ![Facebook messenger](https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/lab/_main/assets/projects/facebook-messenger.jpg) |The project includes typical three column layout with interface to send messages and exchange photos, videos, stickers, audio, and files, as well as react to other users' messages.|[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)|
+|:five:|[Facebook profile page](https://mdbootstrap.com/snippets/standard/mdb-lab/2847258) | ![Facebook profile page](https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/lab/_main/assets/projects/facebook-profile-page.jpg) |The project includes the user's profile page, along with the top navigation, cover photo, profile photo, and below that typical two-column layout with account information, and user news feed.|[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)|
+|:five:|[Instagram newsfeed](https://mdbootstrap.com/snippets/standard/mdb-lab/2847257) | ![Instagram newsfeed](https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/lab/_main/assets/projects/instagram-newsfeed.jpg) |The project includes the user's newsfeed, along with the typical two-column layout, story row and navigation.|[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)|
+|:five:|[YouTube homepage](https://mdbootstrap.com/snippets/standard/mdb-lab/2847265) | ![YouTube homepage](https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/lab/_main/assets/projects/youtube-homepage.jpg) |The project includes a home page with typical, advanced YouTube navigation and multiple media containers for presenting videos.|[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)|
+|:five:|[Trello board](https://mdbootstrap.com/snippets/standard/mdb-lab/2847259) | ![Trello board](https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/lab/_main/assets/projects/trello-board.jpg) |The project includes trello board with a typical scrum system arrangement and draggable tasks.|[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)|
+|:five:|[Alibaba homepage](https://mdbootstrap.com/snippets/standard/mdb-lab/2847264) | ![Alibaba homepage](https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/lab/_main/assets/projects/alibaba-homepage.jpg) |The project includes a home page with typical, advanced eCommerce navigation (double navbar + sidenav) and multiple media containers for presenting products.|[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)|
+|:five:|[Facebook newsfeed](https://mdbootstrap.com/snippets/standard/mdb-lab/2847263) | ![Facebook newsfeed](https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/lab/_main/assets/projects/facebook-newsfeed.jpg) |The project includes the user's newsfeed, along with the typical three-column layout and social media navigation.|[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)|
+|:five:|[Amazon homepage](https://mdbootstrap.com/snippets/standard/mdb-lab/2847262) | ![Amazon homepage](https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/lab/_main/assets/projects/amazon-homepage.jpg) |The project includes a home page with typical, advanced eCommerce navigation (double navbar + sidenav) and multiple media containers for presenting products.|[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)|
 
 
 
 
-### Playgrounds 
+
+### Playgrounds & hosting
 
 - [Codeply](https://www.codeply.com/)
 - [Material Design for Bootstrap Snippets](https://mdbootstrap.com/snippets/)
 - [CodePen](https://codepen.io/)
 - [JSFiddle](https://jsfiddle.net/)
+- [MDB GO/CLI](https://mdbgo.com/)
 
 
 ### Design Tools
 
+- [Drag & Drop Builder](https://mdbootstrap.com/builder/)
+- [Lab Templates](https://mdbootstrap.com/docs/standard/lab/)
 - [Color Schemes generator](https://mdbootstrap.com/docs/standard/tools/design/color-schemes/)
 - [ProofHub](https://www.proofhub.com/)
 - [Logo generator](https://mdbootstrap.com/docs/standard/tools/design/logo-generator/)
