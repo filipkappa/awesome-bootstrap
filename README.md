@@ -1,11 +1,11 @@
 <p align="center"><img src="./screenshots/bootstrap-stack.png" alt="bootstrap-stack" /></p>
 
 
-# Awesome Bootstrap 5 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+# Awesome Bootstrap [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 :sparkles: Awesome - A curated list of amazing Bootstrap tools and themes.
 
-Bootstrap version is denoted by :three: or :four: emoji.
+Bootstrap version is denoted by :three: :four: or :five: emoji.
 
 ## Table of Contents
 
@@ -18,6 +18,7 @@ Bootstrap version is denoted by :three: or :four: emoji.
   - [Admin Dashboards](#admin-dashboards)
   - [Retro Themes](#retro-themes)  
 - [External Lists](#external-lists)
+- [Playgrounds](#playgrounds)
 - [License](#license)
 - [Maintainers](#license)
 
@@ -41,10 +42,20 @@ To contibute please see the [contributing.md](contributing.md) document.
 ## UI Kits
 *These aren't full out-of-the-box themes, rather, they are components you can use in your own creations.*
 - :two::three::four: [BootSnipp.com](https://bootsnipp.com/) - Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+- :five: [Material Design
+for Bootstrap](https://github.com/mdbootstrap/mdb-ui-kit) - 700+ free material UI components & templates. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 - :four: [CodexUI](https://codexui.com/) [[1]](#full-disclosure) - Vanilla Bootstrap components that require no extra CSS or Javascript to use. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+- :five: [Material Design
+for Bootstrap & Angular 11](https://github.com/mdbootstrap/mdb-angular-ui-kit) - 500+ free material UI components & templates. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 - :three: [Flat UI](http://designmodo.github.io/Flat-UI/) - Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites.  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) & [![License: CC BY 3.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/3.0/)
 - :three: [todc-bootstrap](https://github.com/todc/todc-bootstrap) - Google-styled theme for Bootstrap. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+- :five: [Material Design
+for Bootstrap & React 17](https://github.com/mdbootstrap/mdb-react-ui-kit) - 600+ free material UI components & templates. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 - :three: [bootswatch](https://bootswatch.com/) - Bootswatch is a collection of open source themes for Bootstrap. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+- :five: [Material Design
+for Bootstrap & Vue 3](https://github.com/mdbootstrap/mdb-vue-ui-kit) - 500+ free material UI components & templates. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 
 ## Templates
 **IMPORTANT:** For items marked with ![custom license](https://img.shields.io/badge/License-Custom-red.svg) please visit their site to learn more about their license.
@@ -73,6 +84,7 @@ To contibute please see the [contributing.md](contributing.md) document.
 | :three: | [Stanley Freelancer](http://www.blacktie.co/2014/01/stanley-freelancer-theme/) | ![stanley](./screenshots/spa-stanley.png) |Stanley is a really simple theme for those wanting to showcase their work with a cute & clean style.|![custom license](https://img.shields.io/badge/License-Custom-red.svg)|
 | :four: | [Stylish portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) | ![stylish](./screenshots/spa-stylish.png) |Stylish Portfolio is a one page Bootstrap portfolio theme with off canvas navigation and smooth scrolling through content sections.|[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)|
 | :three: | [techro](http://webthemez.com/techro-free-responsive-bootstrap-web-template/) | ![techro](./screenshots/spa-techro.png) |Techro is a business/corporate bootstrap responsive multi page website/ template build with Bootstrap3.1.1, HTML5 & CSS3 and jQuery. It’s a perfect template for corporate, business, web agencies, digital studios, product showcase and personal portfolio.|![custom license](https://img.shields.io/badge/License-Custom-red.svg)|
+| :five: | [Bootstarters](https://www.bootstarters.com/) | ![techro](./screenshots/spa-techro.png) | Bootstarters - Free templates built with the latest Bootstrap 5 and  styled in accordance with Material Design 2.0 guidelines |![custom license](https://img.shields.io/badge/License-Custom-red.svg)|
 
 ### Admin Dashboards
 | Version | Name | Screenshot | Description | LicenseInUse |
@@ -85,6 +97,7 @@ To contibute please see the [contributing.md](contributing.md) document.
 |:three:| [Responsive Dashboard](https://github.com/Ehesp/Responsive-Dashboard) | ![responsive](./screenshots/admin-responsive.png) |AngularJS implementation of the RDash admin dashboard theme |[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)|
 |:four:| [sb-admin](https://startbootstrap.com/template-overviews/sb-admin/) |![sb-admin](./screenshots/sb-admin.png)|SB Admin is a free to download Bootstrap admin template. This template uses the defaul Bootstrap 4 styles along with a variety of powerful jQuery plugins to create a pwerful framework for creating admin panels, web apps, or back-end dashboards.|[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)|
 |:three:| [sb-admin2](https://startbootstrap.com/template-overviews/sb-admin-2/) |![sb-admin](./screenshots/sb-admin2.png)|SB Admin 2 Bootstrap admin theme, dashboard template, or webapp UI starter. The theme features a variety of custom jQuery plugins to add extended functionality past the built in Bootstrap UI features.|[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)|
+|:five:| [Bootstrap 5 Admin Template](https://startbootstrap.com/template-overviews/sb-admin-2/) |![Bootstrap 5 Admin Template](https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/freebies/admin/assets/featured.webp)|Responsive admin dashboard built with the latest Bootstrap 5. Control panel theme ideal for admin pages, analytics & configuration panels.|[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)|
 
 
 ### Retro Themes
@@ -92,7 +105,12 @@ To contibute please see the [contributing.md](contributing.md) document.
 | ------- | ---- | ---------- | ----------- | ------------ |
 |:two: :three:| [BOOTSTRA.386](https://kristopolous.github.io/BOOTSTRA.386/) | ![word](./screenshots/retro-bootstra.386.png) |A vintage 1980s DOS inspired Twitter Bootstrap theme|[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)|
 
+### Playgrounds 
 
+- [Codeply](https://www.codeply.com/)
+- [Material Design for Bootstrap Snippets](https://mdbootstrap.com/snippets/)
+- [CodePen](https://codepen.io/)
+- [JSFiddle](https://jsfiddle.net/)
 
 ### External Lists
 *I'll list any source lists here to help generate some traffic to them too.*
