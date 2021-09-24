@@ -39,7 +39,13 @@ To contibute please see the [contributing.md](contributing.md) document.
 - :two::three: [boostrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended Bootstrap table with radio, checkbox, sort, pagination, and other added features. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Libraries
-
+- :five: [Bootstrap 5 & Angular 11](https://github.com/mdbootstrap/mdb-angular-ui-kit) - 500+ free material UI components & templates. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+- :five: [Bootstrap 5 & React 17](https://github.com/mdbootstrap/mdb-react-ui-kit) - 600+ free material UI components & templates. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+- :five: [Bootstrap 5 & Vue 3](https://github.com/mdbootstrap/mdb-vue-ui-kit) - 500+ free material UI components & templates. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+- :four: [Bootstrap 4 & jQuery 3](https://github.com/mdbootstrap/material-design-for-bootstrap) - 600+ free material UI components & templates. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+- :four: [Bootstrap 4 & Angular 10](https://github.com/mdbootstrap/mdb4-angular-ui-kit) - 400+ free material UI components & templates. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+- :four: [Bootstrap 4 & React 16](https://github.com/mdbootstrap/mdb4-react-ui-kit) - 500+ free material UI components & templates. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+- :four: [Bootstrap 4 & Vue 2](https://github.com/mdbootstrap/mdb4-vue-ui-kit) - 400+ free material UI components & templates. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 - :four: [Bootstrap-Vue](https://github.com/pi0/bootstrap-vue) Complete Components For Vue.js 2. <sup>2.x compatible</sup> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 - :four: [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) Angular directives specific to Bootstrap 4 (Angular 2) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 - :four: [reactstrap](https://github.com/reactstrap/reactstrap) - Stateless React Components for Bootstrap 4. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -48,29 +54,12 @@ To contibute please see the [contributing.md](contributing.md) document.
 
 ## UI Kits
 *These aren't full out-of-the-box themes, rather, they are components you can use in your own creations.*
-- :five: [Material Design
-for Bootstrap](https://github.com/mdbootstrap/mdb-ui-kit) - 700+ free material UI components & templates. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-- :five: [Material Design
-for Bootstrap & Angular 11](https://github.com/mdbootstrap/mdb-angular-ui-kit) - 500+ free material UI components & templates. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-- :five: [Material Design
-for Bootstrap & React 17](https://github.com/mdbootstrap/mdb-react-ui-kit) - 600+ free material UI components & templates. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-- :five: [Material Design
-for Bootstrap & Vue 3](https://github.com/mdbootstrap/mdb-vue-ui-kit) - 500+ free material UI components & templates. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-- :four: [Material Design
-for Bootstrap & jQuery 3](https://github.com/mdbootstrap/material-design-for-bootstrap) - 600+ free material UI components & templates. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-- :four: [Material Design
-for Bootstrap & Angular 10](https://github.com/mdbootstrap/mdb4-angular-ui-kit) - 400+ free material UI components & templates. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-- :four: [Material Design
-for Bootstrap & React 16](https://github.com/mdbootstrap/mdb4-react-ui-kit) - 500+ free material UI components & templates. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-- :four: [Material Design
-for Bootstrap & Vue 2](https://github.com/mdbootstrap/mdb4-vue-ui-kit) - 400+ free material UI components & templates. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+- :five: [Material Design for Bootstrap](https://github.com/mdbootstrap/mdb-ui-kit) - 700+ free material UI components & templates. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 - :four::three::two: [BootSnipp.com](https://bootsnipp.com/) - Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 - :four: [CodexUI](https://codexui.com/) [[1]](#full-disclosure) - Vanilla Bootstrap components that require no extra CSS or Javascript to use. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 - :three: [Flat UI](http://designmodo.github.io/Flat-UI/) - Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites.  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) & [![License: CC BY 3.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/3.0/)
 - :three: [todc-bootstrap](https://github.com/todc/todc-bootstrap) - Google-styled theme for Bootstrap. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 - :three: [bootswatch](https://bootswatch.com/) - Bootswatch is a collection of open source themes for Bootstrap. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-
 
 
 ## Templates
@@ -159,11 +148,11 @@ for Bootstrap & Vue 2](https://github.com/mdbootstrap/mdb4-vue-ui-kit) - 400+ fr
 
 ### Playgrounds & hosting
 
-- [Codeply](https://www.codeply.com/)
-- [Material Design for Bootstrap Snippets](https://mdbootstrap.com/snippets/)
-- [CodePen](https://codepen.io/)
-- [JSFiddle](https://jsfiddle.net/)
-- [MDB GO/CLI](https://mdbgo.com/)
+- [Codeply](https://www.codeply.com/p/3NtYJhNZCd) - an online editor that includes dozens of frameworks, starter templates and code snippets supports Vuetify, Bulma, Bootstrap, Foundation, MDB, Angular and Vue
+- [Snippets Playground](https://mdbootstrap.com/snippets/) - free & fast online editor dedicated to Bootstrap, supports integrations with React, Angular, Vue and MDB, full of community crafted components and design blocks
+- [CodePen](https://codepen.io/) - social development environment for front-end designers and developers
+- [JSFiddle](https://jsfiddle.net/) - an online IDE service and online community for testing and showcasing user-created and collaborational HTML, CSS and JavaScript code snippets
+- [MDB GO/CLI](https://mdbgo.com/) - frontend + backend environment. Create, deploy and host anything with a single command, offers free hosting & predesigned backend boilerplates integrated with **Bootstrap**, Angular, React, Vue, Laravel, WordPress, Express.js, MongoDB, MySQL, Tailwind, Express.js, SocketIO, Passport and more.
 
 
 ### Design Tools
